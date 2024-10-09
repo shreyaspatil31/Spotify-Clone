@@ -76,8 +76,9 @@ Spotify-Clone/
 5. Adjust the volume or mute the audio as needed.
 
 ## Screenshots
-![Home Page](img/homepage.png)
-_Example screenshot of the Spotify Clone Home Page._
+![image](https://github.com/user-attachments/assets/d42d329b-a0d8-4c35-9ba5-37f849a47b4f)
+![image](https://github.com/user-attachments/assets/88206fc5-3982-4333-8dfa-91415f680991)
+
 
 ## Contributing
 
